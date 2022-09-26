@@ -21,6 +21,11 @@ body {
   margin: auto;
 }
 
+.container img{
+  margin: auto;
+  display: block;
+}
+
 header {
   font-size: 28px;
   padding: 10px 0;
