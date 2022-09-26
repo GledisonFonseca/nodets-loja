@@ -123,12 +123,14 @@ h2 {
   margin-top: 25px;
   margin-bottom: 5px;
   padding-left: 20px;
+  text-align: center;
 }
 
 .item-color,
 .item-tam {
   font-size: 16px;
   padding-left: 20px;
+  text-align: center;
 }
 
 footer {
